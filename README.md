@@ -1,2 +1,1 @@
-# SuperSales-Dashboard-with-FORECAST
-Incorporated data analysis techniques, specializing in time series analysis to deliver valuable insight, accurate sales forecasting and interactive dashboard creation.
+"Designed and developed an interactive Power BI dashboard for e-commerce analysis, incorporating advanced forecasting to predict future sales trends and evaluate key metrics such as profit, sales by category, customer segments, and payment modes. Enabled data-driven decision-making with visual insights across geographies and time periods."
